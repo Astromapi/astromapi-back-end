@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+// happy to see tests here! such responsible programming!
 const { execSync } = require('child_process');
 
 const fakeRequest = require('supertest');
